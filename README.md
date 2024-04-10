@@ -9,8 +9,8 @@
 ## Minhas contribuições com o GitHub 📈
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorSantuccii&theme=midnight-purple">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantuccii&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santtzxs&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santtzxs&theme=midnight-purple">
 </div>
 
 <div align="left">
